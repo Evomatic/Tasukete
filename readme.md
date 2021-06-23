@@ -59,7 +59,7 @@ npm run hack:client
 ```
 
 
-## Contributing <img src="https://user-images.githubusercontent.com/27636896/123049087-20e4f680-d43a-11eb-95d2-bbdf8dfa8e15.jpg" width=4% height=4%>
+## Contributing <img src="https://user-images.githubusercontent.com/27636896/123049411-7ae5bc00-d43a-11eb-838e-8656bd1fcc00.png" width=5% height=5%>
 
 Should you want to contribute:
 * please fork and clone the repo on your machine
