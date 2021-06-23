@@ -59,7 +59,7 @@ npm run hack:client
 ```
 
 
-## Contributing
+## Contributing <img src="https://user-images.githubusercontent.com/27636896/123049087-20e4f680-d43a-11eb-95d2-bbdf8dfa8e15.jpg" width=4% height=4%>
 
 Should you want to contribute:
 * please fork and clone the repo on your machine
@@ -77,7 +77,7 @@ Many thanks!
 
 
 
-## License
+## License 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
