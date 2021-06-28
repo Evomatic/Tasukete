@@ -9,7 +9,7 @@
 
 **Tasukete** is a fullstack group project application, using the [Stripe](https://stripe.com/en-jp) API and simple checkout system integration.
     This project gave us the opportunity to work with a real client and to undertake the challenge of building an MVP based on an API from
-    a real company. You can find the deployed version at: <http://tasukete-app.herokuapp.com/>
+    a real company.
     
 <p align="center">
 <img src="https://user-images.githubusercontent.com/27636896/123044039-1f183480-d434-11eb-8de8-516a6e390bc5.png" width=25% height=25%>   <img src="https://user-images.githubusercontent.com/27636896/123045530-fdb84800-d435-11eb-852e-0a7c07ffcb31.png" width=25% height=25%>
